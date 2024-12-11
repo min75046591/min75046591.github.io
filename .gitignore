@@ -1,0 +1,8 @@
+_site
+
+# Node.js
+node_modules/
+
+# Ruby 관련 파일
+vendor/
+Gemfile.lock
