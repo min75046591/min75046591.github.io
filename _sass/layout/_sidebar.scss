@@ -55,10 +55,12 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
 
   #avatar {
     display: block;
-    width: 6.5rem;
-    height: 6.5rem;
+    width: 10rem;
+    height: 10rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
+    justify-self: center;
+    
     transform: translateZ(0); /* fixed the zoom in Safari */
 
     @include bp.sm {
@@ -67,6 +69,9 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     }
 
     img {
+      width: 10rem;
+      height: 10rem;
+      object-fit: cover;
       transition: transform 0.5s;
 
       &:hover {
@@ -78,13 +83,14 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   .profile-wrapper {
     @include mx.mt-mb(2.5rem);
     @extend %clickable-transition;
-
-    padding-left: 2.5rem;
-    padding-right: 1.25rem;
+ 
+    padding-left: 2rem;
+    padding-right: 2rem;
     width: 100%;
 
     @include bp.lg {
       margin-top: 3rem;
+      margin-left: 50%;
     }
 
     @include bp.xxxl {
@@ -103,10 +109,11 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     font-size: 1.75rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
+    justify-self: center;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
     width: fit-content;
-    color: var(--site-title-color);
+    color: white;
   }
 
   .site-subtitle {
