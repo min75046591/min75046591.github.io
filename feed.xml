@@ -4,7 +4,7 @@
   <id>https://min75046591.github.io/</id>
   <title>min</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-19T01:49:02+09:00</updated>
+  <updated>2024-12-25T03:50:13+09:00</updated>
   <author>
     <name>KimMinSu</name>
     <uri>https://min75046591.github.io/</uri>
@@ -20,21 +20,19 @@
 
   
   <entry>
-    <title>24년 회고</title>
-    <link href="https://min75046591.github.io/posts/24%EB%85%84_%ED%9A%8C%EA%B3%A0/" rel="alternate" type="text/html" title="24년 회고" />
-    <published>2024-12-18T14:10:00+09:00</published>
+    <title></title>
+    <link href="https://min75046591.github.io/posts/2024-12-17-24%EB%85%84_%ED%9A%8C%EA%B3%A0/" rel="alternate" type="text/html" title="" />
+    <published>2024-12-25T03:50:13+09:00</published>
   
-    <updated>2024-12-18T14:10:00+09:00</updated>
+    <updated>2024-12-25T03:50:13+09:00</updated>
   
-    <id>https://min75046591.github.io/posts/24%EB%85%84_%ED%9A%8C%EA%B3%A0/</id>
-    <content type="text/html" src="https://min75046591.github.io/posts/24%EB%85%84_%ED%9A%8C%EA%B3%A0/" />
+    <id>https://min75046591.github.io/posts/2024-12-17-24%EB%85%84_%ED%9A%8C%EA%B3%A0/</id>
+    <content type="text/html" src="https://min75046591.github.io/posts/2024-12-17-24%EB%85%84_%ED%9A%8C%EA%B3%A0/" />
     <author>
-      <name>김민수</name>
+      <name>KimMinSu</name>
     </author>
 
   
-    
-    <category term="Blogging" />
     
   
 
@@ -51,7 +49,13 @@
 지금 되돌아보면 더 열심히 살 수 있었던 시간들이었다.
 
 처음 파이썬을 배우며 생소한 단어들과 개념을 이해하고 알고리즘에 부딫히며 많은 시간을 보냈다.
-지금 생각해보니 싸피의 이런 과정이 빠르게 나를 개발자로 만들어줬다고 생각한다.</summary>
+지금 생각해보니 싸피의 이런 과정이 빠르게 나를 개발자로 만들어줬다고 생각한다. 
+5개월간 파이썬, 알고리즘, DB, Django, JavaScript, Html, Css, Vue 많은걸 배웠다. 
+기억이 잘 나는것도 잘 나지 않는것도 있기에 빠르게 복습을 하여 기본을 다시 다져야 겠다는 생각이 든다.
+
+하반기
+
+공통 프로젝...</summary>
 
   </entry>
 
