@@ -4,7 +4,7 @@
   <id>https://min75046591.github.io/</id>
   <title>min</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-12-25T03:53:35+09:00</updated>
+  <updated>2024-12-30T15:33:45+09:00</updated>
   <author>
     <name>KimMinSu</name>
     <uri>https://min75046591.github.io/</uri>
@@ -20,19 +20,21 @@
 
   
   <entry>
-    <title></title>
-    <link href="https://min75046591.github.io/posts/2024-12-17-24%EB%85%84_%ED%9A%8C%EA%B3%A0/" rel="alternate" type="text/html" title="" />
-    <published>2024-12-25T03:53:35+09:00</published>
+    <title>24년 회고</title>
+    <link href="https://min75046591.github.io/posts/24%EB%85%84_%ED%9A%8C%EA%B3%A0/" rel="alternate" type="text/html" title="24년 회고" />
+    <published>2024-12-25T03:44:00+09:00</published>
   
-    <updated>2024-12-25T03:53:35+09:00</updated>
+    <updated>2024-12-25T03:44:00+09:00</updated>
   
-    <id>https://min75046591.github.io/posts/2024-12-17-24%EB%85%84_%ED%9A%8C%EA%B3%A0/</id>
-    <content type="text/html" src="https://min75046591.github.io/posts/2024-12-17-24%EB%85%84_%ED%9A%8C%EA%B3%A0/" />
+    <id>https://min75046591.github.io/posts/24%EB%85%84_%ED%9A%8C%EA%B3%A0/</id>
+    <content type="text/html" src="https://min75046591.github.io/posts/24%EB%85%84_%ED%9A%8C%EA%B3%A0/" />
     <author>
-      <name>KimMinSu</name>
+      <name>김민수</name>
     </author>
 
   
+    
+    <category term="Blogging" />
     
   
 
